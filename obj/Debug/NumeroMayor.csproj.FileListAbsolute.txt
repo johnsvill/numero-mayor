@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.pdb
